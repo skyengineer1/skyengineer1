@@ -55,6 +55,5 @@ Let’s collaborate, share ideas, and grow together. Thanks for visiting my prof
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/skyengineer1/skyengineer1/output/snake.svg" alt="Snake animation" />
 
 ###
