@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I'm Goga 👋</h2> 
+<h2 align="left">Hello, I'm Sky 👋</h2> 
 I'm an aspiring Full-Stack Developer with a passion for coding and programming. As a student of Information Technology at Georgian Technical University, I’m on a journey to master both the art and science of building dynamic and impactful software solutions.  
 
 💻 **What Drives Me:**  
